@@ -759,7 +759,7 @@
 - Bio: Web Developer
 - GitHub: [thestarvingcoder](https://github.com/thestarvingcoder)
 
-#### Name: [likhith](https://github.com/imlsr)
-- Place: Bnagalore,India
-- Bio: Web Developer
-- GitHub: [Likhith s r](https://github.com/imlsr)
+#### Name: [Abhinav](https://github.com/takhilabhinav)
+- Place: Chennai,India
+- Bio: DATASCIENCE
+- GitHub: [takhilabhinav](https://github.com/takhilabhinav)
